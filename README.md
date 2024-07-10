@@ -8,9 +8,9 @@ This project aims to develop a comprehensive Power BI Dashboard for analyzing sa
 - [Dashboard Features](#dashboard-features)
 - [Installation and Usage](#installation-and-usage)
 - [Data Source](#data-source)
-- [Dashboard Photo](#dashboard-photo)
+- [Dashboard](#dashboard)
 - [Bug Reporting and Feature Requests](#bug-reporting-and-feature-requests)
-- [Authors](#authors)
+- [Author](#author)
 
 ## Introduction
 
@@ -43,11 +43,10 @@ To use the Amazon Dashboard:
 
 The primary data source for this project is Amazon sales data, typically stored in a structured format such as CSV or Excel. Ensure your data is formatted correctly to align with the expected schema used in the dashboard.
 
-## Dashboard Photo
+## Dashboard
 
-![Amazon Dashboard](dashboard-screenshot.png)
+![Amazon_Deshboard](https://github.com/aditi-sharma12/Amazon-Dashboard/assets/125428111/f3a8dcc6-951b-4ef1-80d9-33c21f1d92f2)
 
-Above: Screenshot of the Amazon Dashboard showcasing key insights and visualizations.
 
 ## Bug Reporting and Feature Requests
 
@@ -55,8 +54,8 @@ If you encounter any bugs or issues with the dashboard, please open an issue on 
 
 For feature requests or suggestions to enhance the dashboard functionality, feel free to open a new issue with your ideas.
 
-## Authors
+## Author
 
-- [Aditi Sharma](https://github.com/yourusername)
+- [Aditi Sharma](https://github.com/aditisharma_12)
 
 Feel free to contact the author(s) with any questions or feedback regarding the Amazon Dashboard using Power BI.
