@@ -1,4 +1,4 @@
-# Amazon Dashboard using Power BI
+# Amazon-Performance-Dashboard
 
 This project aims to develop a comprehensive Power BI Dashboard for analyzing sales data from Amazon. The dashboard provides insights into various aspects of Amazon sales performance, helping stakeholders make informed decisions based on data-driven analysis.
 
@@ -14,7 +14,7 @@ This project aims to develop a comprehensive Power BI Dashboard for analyzing sa
 
 ## Introduction
 
-The "Amazon Dashboard using Power BI" project leverages Power BI's capabilities to visualize and analyze sales data obtained from Amazon. The dashboard provides key performance indicators (KPIs) and visualizations that enable users to monitor sales trends, product performance, customer behavior, and more.
+The "Amazon-Performance-Dashboard" project leverages Power BI's capabilities to visualize and analyze sales data obtained from Amazon. The dashboard provides key performance indicators (KPIs) and visualizations that enable users to monitor sales trends, product performance, customer behavior, and more.
 
 ## Dashboard Features
 
